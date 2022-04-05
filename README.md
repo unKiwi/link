@@ -8,6 +8,8 @@ With the API you can create a link, get your links, get your views on each link 
 
 To use this API you have to choose your token. It must be strong and keep it safe.
 
+You can make your own discord bot with the gived code in this repository to use this api:
+
 I let you try this API to see the responses.
 
 ### Create a link
